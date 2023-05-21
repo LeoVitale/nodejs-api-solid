@@ -5,7 +5,7 @@ GymPass style app.
 ## Functional Requirements
 
 - [x] Users must be able to sign up;
-- [ ] Users must be able to authenticate;
+- [x] Users must be able to authenticate;
 - [ ] A logged-in user's profile information must be retrievable;
 - [ ] The number of check-ins performed by a logged-in user must be retrievable;
 - [ ] Users must be able to access their check-in history;
